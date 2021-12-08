@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinGITHUBER/Minecraft-Protocol.git"
+  },
+  "author": "Martin M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinGITHUBER/Minecraft-Protocol/issues"
+  },
+  "homepage": "https://github.com/martinGITHUBER/Minecraft-Protocol#readme",
+  "dependencies": {
+    "minecraft-protocol": "^1.28.1"
+  }
+}
